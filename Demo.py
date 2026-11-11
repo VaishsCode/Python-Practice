@@ -1,1 +1,4 @@
-print("Hello World");
+import hello
+import dis
+
+dis.dis(hello)
