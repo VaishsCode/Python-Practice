@@ -7,3 +7,4 @@ try:
 
 except ValueError:
     print("Please enter a number only. Whatever shit you just typed is not a number !")
+
